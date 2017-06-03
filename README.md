@@ -1,4 +1,4 @@
-## README Bachelorarbeit Code 
+## Bachelorarbeit Code 
 Zunächst sei angemerkt, dass die Programme nicht auf der DVD ausgeführt werden sollten, da zur Beschleunigung der Rechenzeit die Modelle
 gespeichert und geladen werden. Dazu muss sichergegangen sein, dass die Dateien an einer schreibbaren Stelle liegen. Außderdem müssen, die Korpusdateien im *corpora* Ordner, falls diese benutzt werden sollen, zunächst entpackt werden.
 
